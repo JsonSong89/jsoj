@@ -7,7 +7,7 @@ class Test1 {
         var next: ListNode? = null
     }
 
-   
+
     fun addTwoNumbers(l1: ListNode, l2: ListNode): ListNode? {
         val dummyHead = ListNode(0)
         var p: ListNode? = l1
